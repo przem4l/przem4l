@@ -9,8 +9,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.png">
-  <img src="assets/about-light.png" alt="Warsaw University of Technology, B.Sc. Eng., Applied Computer Science, Oct 2025 – Present" height="110">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-bw-dark.png">
+  <img src="assets/about-bw-light.png" alt="Warsaw University of Technology, B.Sc. Eng., Applied Computer Science, Oct 2025 – Present" height="112">
 </picture>
 
 <p align="center">
