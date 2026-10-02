@@ -8,33 +8,20 @@
 
 </div>
 
-<table>
-  <tr>
-    <td valign="top" width="22%">
-      <h3>About</h3>
-      <p>
-        <a href="https://www.linkedin.com/school/warsaw-university-of-technology/">Warsaw University of Technology</a><br>
-        B.Sc. Eng., Applied Computer Science<br>
-        Oct 2025 – Present
-      </p>
-    </td>
-    <td valign="top" width="18%" align="center">
-      <h3>Certifications</h3>
-      <a href="https://learn.microsoft.com/en-us/users/przemyslawfeliniak/credentials/d50520186c12576b">
-        <img src="assets/microsoft-certified-fundamentals-badge.svg" alt="AZ-900 Azure Fundamentals" width="88" />
-      </a>
-      <br>
-      <a href="https://learn.microsoft.com/en-us/users/przemyslawfeliniak/credentials/d50520186c12576b">AZ-900</a>
-    </td>
-    <td valign="top" width="35%" align="center">
-      <h3>Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przem4l&layout=compact&langs_count=6&hide=html&theme=tokyonight&hide_border=true&hide_title=true&title_color=58A6FF&bg_color=0D1117&card_width=280" alt="Most used languages" />
-    </td>
-    <td valign="top" width="25%" align="center">
-      <h3>Boot.dev</h3>
-      <a href="https://www.boot.dev/u/przem4l">
-        <img src="https://api.boot.dev/v1/users/public/37ab3e76-55a5-4bad-81d0-f7df8283b66e/thumbnail" height="110" alt="Boot.dev" />
-      </a>
-    </td>
-  </tr>
-</table>
+## About
+
+Warsaw University of Technology  
+B.Sc. Eng., Applied Computer Science  
+Oct 2025 – Present
+
+<div align="center">
+  <a href="https://learn.microsoft.com/en-us/users/przemyslawfeliniak/credentials/d50520186c12576b">
+    <img src="assets/microsoft-certified-fundamentals-badge.svg" alt="AZ-900" height="140" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przem4l&layout=compact&langs_count=6&hide=html&theme=dark&hide_border=true&hide_title=true&bg_color=00000000&text_color=c9d1d9&card_width=320" alt="Most used languages" height="140" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.boot.dev/u/przem4l">
+    <img src="https://api.boot.dev/v1/users/public/37ab3e76-55a5-4bad-81d0-f7df8283b66e/thumbnail" alt="Boot.dev" height="140" />
+  </a>
+</div>
