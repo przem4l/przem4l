@@ -3,7 +3,7 @@
 # Przemysław Feliniak
 
 [![GitHub](https://img.shields.io/badge/GitHub-przem4l-181717?style=flat-square&logo=github)](https://github.com/przem4l)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Przemysław%20Feliniak-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/przemyslaw-felniak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Przemysław%20Feliniak-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/przemyslaw-feliniak)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-przem4l-2ea44f?style=flat-square)](https://www.boot.dev/u/przem4l)
 
 <br>
